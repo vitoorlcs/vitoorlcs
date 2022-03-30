@@ -4,7 +4,7 @@
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estudando Html, Css e futuramente irei para o JavaScript. 
 
-<div align="center">
+<div>
   <a href="https://github.com/vitoorlcs">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vitoorlcs&show_icons=true&hide_border=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoorlcs&hide_border=true&layout=compact&langs_count=7&theme=midnight-purple"/>
