@@ -1,7 +1,7 @@
 ### Oláá! 
 ##
 
-- 🔭 Hoje trabalho com front-end
+- 🔭 Estou estudando desenvolvimento web e programação para que futuramente posso evoluir para a área de segurança cibernética. 
 - 🌱 Estudando Html, Css e futuramente irei para o JavaScript. 
 
 <div>
